@@ -1,0 +1,49 @@
+.header {
+	height: 100px;
+	background-color: skyblue;
+}
+
+.container {
+	overflow: hidden;
+}
+
+.blog {
+	float: left;
+	width: 40%;
+	height: 100px;
+	background-color: blue;
+}
+
+.contact {
+	float: right;
+	width: 60%;
+	height: 100px;
+	background-color: yellow;
+	
+}
+.me {
+	overflow: hidden;
+}
+
+.box {
+	float: left;
+	width: 33.33%;
+	height: 100px;
+
+}
+.red{
+	background-color: yellow;
+}
+
+.green {
+	background-color: green;
+}
+
+.yellow {
+	background-color: red;
+}
+
+.footer {
+	height: 100px;
+	background-color: skyblue;
+}
